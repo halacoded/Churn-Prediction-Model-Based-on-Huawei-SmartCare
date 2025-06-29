@@ -74,5 +74,14 @@ Telecom companies increasingly face customer churn, which directly impacts reven
 This project is open-source and free to use for educational and non-commercial purposes.  
 Feel free to explore, modify, and build upon this code to support your own learning or telecom analytics projects.
 
+## Installation & Usage
+### Prerequisites
+- Python 3.x
+- COLAP 
+- Optuna 
+
+### Setup
+Click COLAP Link and Download the Dataset and prerequisites, then you are ready to start
+
 ## Contributors
 - Hala Almutairi – Project Developer & Intern  
