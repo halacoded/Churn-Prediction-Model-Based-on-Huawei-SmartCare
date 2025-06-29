@@ -80,7 +80,7 @@ Feel free to explore, modify, and build upon this code to support your own learn
 - COLAP 
 - Optuna 
 
-### Setup
+## Setup
 Click COLAP Link and Download the Dataset and prerequisites, then you are ready to start
 
 ## Contributors
