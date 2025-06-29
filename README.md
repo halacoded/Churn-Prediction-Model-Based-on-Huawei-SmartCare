@@ -20,7 +20,8 @@ Telecom companies increasingly face customer churn, which directly impacts reven
 - **Source:** [Kaggle - blastchar](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 - **Provider:** IBM  
 - **Size:** 7,043 customer records  
-- **Features:**  
+- **Features:**
+  
           1. **Churn Status**
             - Whether the customer left within the last month (`Churn` column)
 
