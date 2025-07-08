@@ -65,10 +65,18 @@ Telecom companies increasingly face customer churn, which directly impacts reven
 - matplotlib, seaborn  
 - StandardScaler, OrdinalEncoder, LabelEncoder
 
-## Future Work
-- Build an interactive Streamlit dashboard  
-- Extend the simulation to real-time scoring  
-- Include additional SmartCare features like MBB and Digital Customer Care
+## Integration with LINK. Platform
+
+This machine learning model is deployed as part of the larger **LINK. – AI-Powered Customer Retention Platform for Telecoms**
+The MERN full-stack architecture includes:
+- **Frontend** – React.js dashboard for telecom operators  
+  → [View Frontend Repo](https://github.com/halacoded/LINK.)
+
+- **Backend** – Node.js + Express API for handling user authentication and model requests  
+  → [View Backend Repo](https://github.com/halacoded/LINK-Backend)
+
+- **Flask Microservice** – Interfaces with this model to provide churn predictions via REST API  
+  → [View Flask Microservice Repo](https://github.com/halacoded/LINK-FLASK-Microserver)
 
 ## License & Usage
 This project is open-source and free to use for educational and non-commercial purposes.  
